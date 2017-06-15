@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Jun 14 17:41:34 2017
-@author: mwu
 """
 #
 def factors(n):
